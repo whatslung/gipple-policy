@@ -1,13 +1,26 @@
 {
-  "version": 1.12,
-  "effectiveDate": "2026-02-06",
-  "summary": [
-    "테스트 변경점 1-3",
-    "테스트 변경점 2-3"
-  ],
-  "documents": {
-    "privacy": "privacy.html",
-    "terms": "terms.html",
-    "location": "location.html"
-  }
+  "schemaVersion": 1,
+  "documents": [
+    {
+      "kind": "terms",
+      "version": "1.12",
+      "url": "https://whatslung.github.io/gipple-policy/terms.html",
+      "effectiveAt": "2026-02-06",
+      "summary": "테스트 변경점 1-3 / 테스트 변경점 2-3"
+    },
+    {
+      "kind": "privacy",
+      "version": "1.12",
+      "url": "https://whatslung.github.io/gipple-policy/privacy.html",
+      "effectiveAt": "2026-02-06",
+      "summary": "테스트 변경점 1-3 / 테스트 변경점 2-3"
+    },
+    {
+      "kind": "location",
+      "version": "1.12",
+      "url": "https://whatslung.github.io/gipple-policy/location.html",
+      "effectiveAt": "2026-02-06",
+      "summary": "테스트 변경점 1-3 / 테스트 변경점 2-3"
+    }
+  ]
 }
