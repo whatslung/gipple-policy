@@ -2,8 +2,8 @@
   "version": 1,
   "effectiveDate": "2026-02-06",
   "summary": [
-    "테스트 변경점 1",
-    "테스트 변경점 2"
+    "테스트 변경점 1-1",
+    "테스트 변경점 2-1"
   ],
   "documents": {
     "privacy": "privacy.html",
