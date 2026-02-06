@@ -10,10 +10,10 @@
     },
     {
       "kind": "privacy",
-      "version": "1.12",
+      "version": "1.13",
       "url": "https://whatslung.github.io/gipple-policy/privacy.html",
       "effectiveAt": "2026-02-06",
-      "summary": "테스트 변경점 1-3 / 테스트 변경점 2-3"
+      "summary": "테스트 변경점2  / 테스트 변경점2 "
     },
     {
       "kind": "location",
