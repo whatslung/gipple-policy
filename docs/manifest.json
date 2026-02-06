@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "effectiveDate": "2026-02-06",
+  "summary": [
+    "테스트 변경점 1",
+    "테스트 변경점 2"
+  ],
+  "documents": {
+    "privacy": "privacy.html",
+    "terms": "terms.html",
+    "location": "location.html"
+  }
+}
