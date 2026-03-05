@@ -3,24 +3,27 @@
   "documents": [
     {
       "kind": "terms",
-      "version": "1.15",
-      "url": "https://whatslung.github.io/gipple-policy/terms.html",
-      "effectiveAt": "2026-02-06",
-      "summary": "테스트 변경점  / 테스트 변경점 "
+      "version": "c1dee5604c45",
+      "url": "terms.html",
+      "effectiveAt": "2026-03-10",
+      "summary": "",
+      "requiresReconsent": null
     },
     {
       "kind": "privacy",
-      "version": "1.15",
-      "url": "https://whatslung.github.io/gipple-policy/privacy.html",
-      "effectiveAt": "2026-02-06",
-      "summary": "테스트 변경점2  / 테스트 변경점2 "
+      "version": "9e3dcca2d8cc",
+      "url": "privacy.html",
+      "effectiveAt": "2026-03-10",
+      "summary": "",
+      "requiresReconsent": null
     },
     {
       "kind": "location",
-      "version": "1.15",
-      "url": "https://whatslung.github.io/gipple-policy/location.html",
-      "effectiveAt": "2026-02-06",
-      "summary": "테스트 변경점 3 / 테스트 변경점 3"
+      "version": "30b44124bf3a",
+      "url": "location.html",
+      "effectiveAt": "2026-03-10",
+      "summary": "",
+      "requiresReconsent": null
     }
   ]
 }
